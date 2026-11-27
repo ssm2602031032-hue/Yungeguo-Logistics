@@ -1,0 +1,1 @@
+module.exports={version:'community',brand:{zh:'运各国',en:'YGG Logistics'},company:'YGG · Community preview',phone:'示例联系方式',phoneHref:'',email:'team@example.invalid',city:{zh:'深圳',en:'Shenzhen'},visit:{zh:'演示站不接受真实交货。',en:'Demo only; no deliveries.'},hours:{zh:'演示站不提供在线客服。',en:'No live support on this demo.'},icp:'公开代码演示',preview:true,publicBaseUrl:''};
